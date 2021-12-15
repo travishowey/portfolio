@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../scss/custom.scss",
+        "../scss/_functions.scss",
+        "../scss/_variables.scss"
+    ],
+    "names": [],
+    "file": "custom.css"
+}
